@@ -1,0 +1,47 @@
+---
+content_type: page
+title: Lecture Summaries
+uid: ea4bcf31-0a91-a41e-49ca-61feace5bfc2
+---
+
+| SES # | LECTURE SUMMARIES | HANDOUTS |
+| --- | --- | --- |
+| 1 | [Overview of linear PDEs and analogies with matrix algebra (PDF)]({{< baseurl >}}/resources/mit18_303f14_lecture1) | [A few important PDEs (PDF)]({{< baseurl >}}/resources/mit18_303f14_lec1) |
+| 2 | [Poisson's equation and eigenfunctions in 1d: Fourier sine series (PDF)]({{< baseurl >}}/resources/mit18_303f14_lecture2) |  {{< br >}}{{< br >}} [Fourier sine series examples (PDF)]({{< baseurl >}}/resources/mit18_303f14_sines) {{< br >}}{{< br >}} [sine-series Julia notebook](http://nbviewer.ipython.org/url/math.mit.edu/~stevenj/18.303/lecture-2.ipynb) {{< br >}}{{< br >}}  |
+| 3 | [Finite-difference methods and accuracy (PDF)]({{< baseurl >}}/resources/mit18_303f14_lecture3) |  {{< br >}}{{< br >}} [Notes on difference approximations (PDF)]({{< baseurl >}}/resources/mit18_303f14_difference) {{< br >}}{{< br >}} [IJulia notebook from the in-class demo](http://nbviewer.ipython.org/url/math.mit.edu/~stevenj/18.303/lecture-3.ipynb) {{< br >}}{{< br >}}  |
+| 4 | [Discrete vs. continuous Laplacians: Symmetry and dot products (PDF)]({{< baseurl >}}/resources/mit18_303f14_lecture4) | No handouts |
+| Optional | [Julia Tutorial](https://github.com/stevengj/julia-mit/) | [Julia & IJulia Cheat-sheet (PDF)]({{< baseurl >}}/resources/mit18_303f14_julia_cheat) |
+| 5 | [Diagonalizability of infinite-dimensional Hermitian operators (PDF)]({{< baseurl >}}/resources/mit18_303f14_lecture5) | No handouts |
+| 6 | [Start with a truly discrete (finite-dimensional) system, and then derive the continuum PDE model as a limit or approximation (PDF)]({{< baseurl >}}/resources/mit18_303f14_lecture6) | ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Notes on from discrete to continuum (PDF)]({{< baseurl >}}/resources/mit18_303f14_lec6) |
+| 7 | [Start in 1d with the "Sturm-Liouville operator", generalize Sturm-Liouville operators to multiple dimensions (PDF)]({{< baseurl >}}/resources/mit18_303f14_lecture7) | [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Notes on elliptic operators (PDF - 1.2MB)]({{< baseurl >}}/resources/mit18_303f14_lec7) |
+| 8 | [Music and wave equations, Separation of variables, in time and space (PDF)]({{< baseurl >}}/resources/mit18_303f14_lecture8) |  {{< br >}}{{< br >}} ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[18.303 and music (PDF)]({{< baseurl >}}/resources/mit18_303f14_music) {{< br >}}{{< br >}} ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Music scales and intervals (PDF)]({{< baseurl >}}/resources/mit18_303f14_scale_notes) {{< br >}}{{< br >}} [Notes on separation of variables (PDF)]({{< baseurl >}}/resources/mit18_303f14_separation) {{< br >}}{{< br >}}  |
+| 9 | [Separation of variables in cylindrical geometries: Bessel functions (PDF)]({{< baseurl >}}/resources/mit18_303f14_lecture9) |  {{< br >}}{{< br >}} [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Notes on Bessel functions and cylindrical problems (PDF)]({{< baseurl >}}/resources/mit18_303f14_lec9) {{< br >}}{{< br >}} [IJulia Bessel-function notebook](http://math.mit.edu/~stevenj/18.303/lecture-8.html) {{< br >}}{{< br >}}  |
+| 10 | [General Dirichlet and Neumann boundary conditions (PDF)]({{< baseurl >}}/resources/mit18_303f14_lecture10) | No handouts |
+| 11 | [Multidimensional finite differences (PDF)]({{< baseurl >}}/resources/mit18_303f14_lecture11) | [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Notes on finite differences in 2(+) dimensions (PDF)]({{< baseurl >}}/resources/mit18_303f14_lec11) |
+| 12 | [Kronecker products (PDF)]({{< baseurl >}}/resources/mit18_303f14_lecture12) | [IJulia notebook lecture 10](http://math.mit.edu/~stevenj/18.303/lecture-10.html) |
+| 13 | [The min-max theorem (PDF)]({{< baseurl >}}/resources/mit18_303f14_lecture13) | [Notes on the min–max theorem (PDF)]({{< baseurl >}}/resources/mit18_303f14_minmax) |
+| 14 | [Green's functions with Dirichlet boundaries (PDF)]({{< baseurl >}}/resources/mit18_303f14_lecture14) |  {{< br >}}{{< br >}} [Introduction to Green's functions (PDF)]({{< baseurl >}}/resources/mit18_303f14_green) {{< br >}}{{< br >}} [Notes on the 1d-Laplacian Green's function (PDF)]({{< baseurl >}}/resources/mit18_303f14_green_explicit) {{< br >}}{{< br >}}  |
+| 15 | [Reciprocity and positivity of Green's functions (PDF)]({{< baseurl >}}/resources/mit18_303f14_lecture15) |  {{< br >}}{{< br >}} [Notes on reciprocity and positivity of Green's functions (PDF)]({{< baseurl >}}/resources/mit18_303f14_reciprocity) {{< br >}}{{< br >}} [Notes on delta functions and distributions (PDF)]({{< baseurl >}}/resources/mit18_303f14_delta_notes) {{< br >}}{{< br >}}  |
+| 16 | [Delta functions and distributions (PDF)]({{< baseurl >}}/resources/mit18_303f14_lecture16) | No handouts |
+| 17 | [Green's function of ∇2 in 3d for infinite space, the method of images (PDF)]({{< baseurl >}}/resources/mit18_303f14_lecture17) | No handouts |
+| 18 | [The method of images, interfaces, and surface integral equations (PDF)]({{< baseurl >}}/resources/mit18_303f14_lecture18) | No handouts |
+| 19 | [Green's functions in inhomogeneous media: Integral equations and Born approximations (PDF)]({{< baseurl >}}/resources/mit18_303f14_lecture19) | [Notes on Green's functions in inhomogeneous media (PDF)]({{< baseurl >}}/resources/mit18_303f14_inhomog_notes) |
+| 20 | [Dipole sources and approximations, Overview of time-dependent problems (PDF)]({{< baseurl >}}/resources/mit18_303f14_lecture20) | No handouts |
+| 21 | [Time-stepping and stability: Definitions, Lax equivalence (PDF)]({{< baseurl >}}/resources/mit18_303f14_lecture21) | No handouts |
+| 22 | [Von Neumann analysis and the heat equation (PDF)]({{< baseurl >}}/resources/mit18_303f14_lecture22) | No handouts |
+| 23 | [Algebraic properties of wave equations and unitary time evolution, Conservation of energy in a stretched string (PDF)]({{< baseurl >}}/resources/mit18_303f14_lecture23) | [Notes on the algebraic structure of wave equations (PDF)]({{< baseurl >}}/resources/mit18_303f14_wave_equation) |
+| 24 | [Staggered discretizations of wave equations (PDF)]({{< baseurl >}}/resources/mit18_303f14_lecture24) | No handouts |
+| 25 | [Traveling waves: D'Alembert's solution (PDF)]({{< baseurl >}}/resources/mit18_303f14_lecture25) | ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Notes on Fourier transforms, wave velocity, and dispersion (PDF - 2.1MB)]({{< baseurl >}}/resources/mit18_303f14_fourier_disp) |
+| 26 | Group-velocity derivation and dispersion. Please see the related contents in ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Notes on Fourier transforms, wave velocity, and dispersion (PDF - 2.1MB)]({{< baseurl >}}/resources/mit18_303f14_fourier_disp) | No handouts |
+| 27 | Material dispersion and convolutions. Please see the related contents in ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Notes on Fourier transforms, wave velocity, and dispersion (PDF - 2.1MB)]({{< baseurl >}}/resources/mit18_303f14_fourier_disp) | No handouts |
+| 28 | [General topic of waveguides, Superposition of modes, Evanescent modes (PDF)]({{< baseurl >}}/resources/mit18_303f14_lecture28) | No handouts |
+| 29 | [Waveguide modes, Reduced eigenproblem (PDF)]({{< baseurl >}}/resources/mit18_303f14_lecture29) | ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Notes on propagating and evanescent modes in waveguides (PDF)]({{< baseurl >}}/resources/mit18_303f14_waveguide) |
+| 30 | [Guidance, reflection, and refraction at interfaces between regions with different wave speeds (PDF)]({{< baseurl >}}/resources/mit18_303f14_lecture30) | No handouts |
+| 31 | [Numerical examples of total internal reflection (PDF)]({{< baseurl >}}/resources/mit18_303f14_lecture31) |  {{< br >}}{{< br >}} [Waveguide modes IJulia notebook](http://nbviewer.ipython.org/url/math.mit.edu/~stevenj/18.303/Waveguide-Modes.ipynb) {{< br >}}{{< br >}} [Variational proof of slow-wave localization (PDF)]({{< baseurl >}}/resources/mit18_303f14_slow_wave) {{< br >}}{{< br >}}  |
+| 32 | [Perfectly matched layers (PML) (PDF)]({{< baseurl >}}/resources/mit18_303f14_lecture32) | [Notes on perfectly matched layers (PDF)]({{< baseurl >}}/resources/mit18_303f14_pml) |
+| 33 | [Perturbation theory and Hellman-Feynman theorem (PDF)]({{< baseurl >}}/resources/mit18_303f14_lecture33) | No handouts |
+| 34 | [Finite element methods: Introduction (PDF)]({{< baseurl >}}/resources/mit18_303f14_lecture34) | No handouts |
+| 35 | [Galerkin discretization (PDF)]({{< baseurl >}}/resources/mit18_303f14_lecture35) | No handouts |
+| 36 | [Convergence proof for the finite-element method, Boundary conditions and the finite-element method (PDF)]({{< baseurl >}}/resources/mit18_303f14_lecture36) | No handouts |
+| 37 | [Finite-element software (PDF)]({{< baseurl >}}/resources/mit18_303f14_lecture37) | No handouts |
+| 38 | [Symmetry and linear PDEs (PDF)]({{< baseurl >}}/resources/mit18_303f14_lecture38) | No handouts

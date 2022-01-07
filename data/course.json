@@ -1,0 +1,49 @@
+{
+  "term": "Fall",
+  "year": "2014",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Differential Equations"
+    ],
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ],
+    [
+      "Mathematics",
+      "Linear Algebra"
+    ]
+  ],
+  "legacy_uid": "adf44f8f-9d7a-a417-3f5d-44a9a4d5b9a2",
+  "instructors": {
+    "content": [
+      "e99ce068-4e56-275c-a4a1-4a3e69a4bfd8"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "a5c5b030-3c89-49d7-246d-46587f058cfb",
+    "website": "18-303-linear-partial-differential-equations-analysis-and-numerics-fall-2014"
+  },
+  "course_title": "Linear Partial Differential Equations: Analysis and Numerics",
+  "course_description": "This course provides students with the basic analytical and computational tools of linear partial differential equations (PDEs) for practical applications in science engineering, including heat / diffusion, wave, and Poisson equations. Analytics emphasize the viewpoint of linear algebra and the analogy with finite matrix problems. Numerics focus on finite-difference and finite-element techniques to reduce PDEs to matrix problems. The [Julia Language](http://julialang.org) (a free, open-source environment) is introduced and used in homework for simple examples.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.303",
+  "course_image_thumbnail": {
+    "content": "445700d2-a5bd-d947-6729-761bf146a366",
+    "website": "18-303-linear-partial-differential-equations-analysis-and-numerics-fall-2014"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams with Solutions"
+  ],
+  "site_uid": "4288bc74-ca84-475e-9ce5-7b6b3639003a",
+  "title": "Course Metadata"
+}
